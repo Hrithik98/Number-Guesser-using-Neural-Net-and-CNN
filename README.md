@@ -9,3 +9,5 @@ Steps:
 main python modules used :
   1. Pygame
   2. Keras
+  
+Mnist Dataset used to train the Neural Network and the CNN
